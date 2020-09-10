@@ -17,4 +17,6 @@ I am enthusiastic about learning new tech and developing applications that revol
 <br/>.💬 Ask me about: tech and foods.
 <br/>.⚡ Fun Fact: I enjoy gaming.❄️ 
 
-<br/>Thank you for reading this far and don't forget to add me
+<br/>Thank you for reading this far.
+<br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/JosWambugu">Twitter</a>
+  
