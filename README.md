@@ -1,11 +1,20 @@
-### Hi there 👋
+# Jos Wambugu :man_technologist:
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JulianaOnofrio)](https://github.com/wambugucoder)
+[![Linkedin /)](https://www.linkedin.com/in/julianaonofrio/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josphatwambugu77@gmail.com)](mailto:josphatwambugu77@gmail.com/)
+<br/>
+## Hi there 👋 
 
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+<br/>My name is Jos, I'm a back-end developer.
+I am enthusiastic about learning new tech and developing applications that revolve around them.
 
-:wave: Hi! I'm Jos, a software engineer who loves working on Javascript Projects
+<br/>.📚 Technologist in Systems Analysis and Development.
+<br/>.👩‍🎓 Bachelor in Information Technology .
+<br/>.🌱 I’m currently learning Typescript and how to configure a nginx server for production .
+<br/>.💻 Coding languages: Java and NodeJS.
+<br/>.🌍 Languages: English, French and German.
+<br/>.💬 Ask me about: tech and foods.
+<br/>.⚡ Fun Fact: I enjoy gaming.❄️ 
 
-### :coffee: Wanna chat?
-:point_right: @ me on [Twitter](https://twitter.com/JosWambugu) about whatever!    
-
-- ⚡ Fun fact: ...Javascript is Fun🙂
+<br/>Thank you for reading this far and don't forget to add me
