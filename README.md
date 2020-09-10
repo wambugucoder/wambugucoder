@@ -9,9 +9,9 @@
 <br/>My name is Jos, I'm a back-end developer.
 I am enthusiastic about learning new tech and developing applications that revolve around them.
 
-<br/>.📚 Technologist in Systems Analysis and Development.
 <br/>.👩‍🎓 Bachelor in Information Technology .
-<br/>.🌱 I’m currently learning Typescript and how to configure a nginx server for production .
+<br/>.🌱 I’m currently learning Typescript .
+<br/>.🧩 Also started configuring nginx servers,its fun so far .
 <br/>.💻 Coding languages: Java and NodeJS.
 <br/>.🌍 Languages: English, French and German.
 <br/>.💬 Ask me about: tech and foods.
