@@ -13,7 +13,7 @@ I am enthusiastic about learning new tech and developing applications that revol
 <br/>.🌱 I’m currently learning Typescript .
 <br/>.🧩 Also started configuring nginx servers,its fun so far .
 <br/>.💻 Coding languages: Java and Javascript.
-<br/>.🌍 Languages: English, French and German.
+<br/>.🌍 Languages: English and Swahili.
 <br/>.💬 Ask me about: tech and foods.
 <br/>.⚡ Fun Fact: I enjoy gaming.❄️ 
 
