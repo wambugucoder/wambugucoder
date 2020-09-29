@@ -6,7 +6,7 @@
 <br/>
 ## Hi there 👋 
 
-<br/>My name is Jos, I'm a back-end developer.
+<br/>I'm Jos, a back-end developer.
 I am enthusiastic about learning new tech and developing applications that revolve around them.
 
 <br/>.👨‍🎓 Bachelor in Information Technology .
