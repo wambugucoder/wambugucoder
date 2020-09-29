@@ -7,7 +7,7 @@
 ## Hi there 👋 
 
 <br/>I'm Jos, a back-end developer.
-I am enthusiastic about learning new tech and developing applications that revolve around them.
+I'm enthusiastic about learning new tech and developing applications that revolve around them.
 
 <br/>.👨‍🎓 Bachelor in Information Technology .
 <br/>.🌱 I’m currently learning Typescript .
