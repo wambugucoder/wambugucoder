@@ -11,7 +11,7 @@ I'm enthusiastic about learning new tech and developing applications that revolv
 
 <br/>.👨‍🎓 Bachelor in Information Technology .
 <br/>.🌱 I’m currently learning Typescript .
-<br/>.🧩 Also started configuring nginx servers,its exciting.
+<br/>.🧩 Also into devops.
 <br/>.💻 Coding languages: Java ,Typescript and Javascript.
 <br/>.🌍 Languages: English and Swahili.
 <br/>.💬 Ask me about: tech and food.
