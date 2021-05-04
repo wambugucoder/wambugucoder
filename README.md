@@ -6,17 +6,8 @@
 <br/>
 ## Hi there 👋 
 
-<br/>I'm Jos, a back-end developer.
-I'm enthusiastic about learning new tech and developing applications that revolve around them.
+<br/>I'm Jos, A .java,.kt,.ts,.js.go,.rs dev
 
-<br/>.👨‍🎓 Bachelor in Information Technology .
-<br/>.🌱 I’m currently learning Typescript .
-<br/>.🧩 Also into devops.
-<br/>.💻 Coding languages: Java ,Typescript and Javascript.
-<br/>.🌍 Languages: English and Swahili.
-<br/>.💬 Ask me about: tech and food.
-<br/>.⚡ Fun Fact: I enjoy gaming.
 
-<br/>Thank you for reading this far.
 <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/JosWambugu">Twitter</a>
   
