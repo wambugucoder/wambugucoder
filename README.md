@@ -6,7 +6,7 @@
 <br/>
 ## Hi there 👋 
 
-<br/>I'm Jos, A .java,.kt,.ts,.js.go,.rs dev
+<br/>I'm Jos, A .java, .kt, .ts, .js, .go, .rs dev
 
 
 <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/JosWambugu">Twitter</a>
